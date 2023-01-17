@@ -1,4 +1,13 @@
-# PDF ORATEUR
+This project is a fork from nikhilkumarsingh project. The original repo link is: https://github.com/nikhilkumarsingh/PDF_AUDIO_READER
+
+In this fork, I aim to use the PDF Audio Reader scripts from nikhilkumarsingh in order to create a python script that reads a pdf and, using Google Cloud Text-To-Speech API, generates an audio file. 
+
+I hope you enjoy it.
+
+And the original README file is as follows:
+
+
+#PDF ORATEUR
 
 A **simple** and **offline** PDF audio reader using Python.
 
